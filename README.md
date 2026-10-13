@@ -130,4 +130,4 @@ npm run build
 
 ## Vídeo
 
-Ainda não disponível.
+[Apresentação do projeto no YouTube](https://youtu.be/li0fa8bSr4s).
